@@ -1,0 +1,13 @@
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade01\Atividade01\obj\Debug\netcoreapp3.1\Atividade01.csprojAssemblyReference.cache
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade01\Atividade01\obj\Debug\netcoreapp3.1\Atividade01.AssemblyInfoInputs.cache
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade01\Atividade01\obj\Debug\netcoreapp3.1\Atividade01.AssemblyInfo.cs
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade01\Atividade01\obj\Debug\netcoreapp3.1\Atividade01.csproj.CoreCompileInputs.cache
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade01\Atividade01\bin\Debug\netcoreapp3.1\Atividade01.exe
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade01\Atividade01\bin\Debug\netcoreapp3.1\Atividade01.deps.json
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade01\Atividade01\bin\Debug\netcoreapp3.1\Atividade01.runtimeconfig.json
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade01\Atividade01\bin\Debug\netcoreapp3.1\Atividade01.runtimeconfig.dev.json
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade01\Atividade01\bin\Debug\netcoreapp3.1\Atividade01.dll
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade01\Atividade01\bin\Debug\netcoreapp3.1\Atividade01.pdb
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade01\Atividade01\obj\Debug\netcoreapp3.1\Atividade01.dll
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade01\Atividade01\obj\Debug\netcoreapp3.1\Atividade01.pdb
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade01\Atividade01\obj\Debug\netcoreapp3.1\Atividade01.genruntimeconfig.cache
