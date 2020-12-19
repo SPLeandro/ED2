@@ -1,0 +1,13 @@
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atv 1512\ContactList_Console\ContactList_Console\bin\Debug\netcoreapp3.1\ContactList_Console.exe
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atv 1512\ContactList_Console\ContactList_Console\bin\Debug\netcoreapp3.1\ContactList_Console.deps.json
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atv 1512\ContactList_Console\ContactList_Console\bin\Debug\netcoreapp3.1\ContactList_Console.runtimeconfig.json
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atv 1512\ContactList_Console\ContactList_Console\bin\Debug\netcoreapp3.1\ContactList_Console.runtimeconfig.dev.json
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atv 1512\ContactList_Console\ContactList_Console\bin\Debug\netcoreapp3.1\ContactList_Console.dll
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atv 1512\ContactList_Console\ContactList_Console\bin\Debug\netcoreapp3.1\ContactList_Console.pdb
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atv 1512\ContactList_Console\ContactList_Console\obj\Debug\netcoreapp3.1\ContactList_Console.csprojAssemblyReference.cache
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atv 1512\ContactList_Console\ContactList_Console\obj\Debug\netcoreapp3.1\ContactList_Console.AssemblyInfoInputs.cache
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atv 1512\ContactList_Console\ContactList_Console\obj\Debug\netcoreapp3.1\ContactList_Console.AssemblyInfo.cs
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atv 1512\ContactList_Console\ContactList_Console\obj\Debug\netcoreapp3.1\ContactList_Console.csproj.CoreCompileInputs.cache
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atv 1512\ContactList_Console\ContactList_Console\obj\Debug\netcoreapp3.1\ContactList_Console.dll
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atv 1512\ContactList_Console\ContactList_Console\obj\Debug\netcoreapp3.1\ContactList_Console.pdb
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atv 1512\ContactList_Console\ContactList_Console\obj\Debug\netcoreapp3.1\ContactList_Console.genruntimeconfig.cache

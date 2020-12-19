@@ -1,0 +1,15 @@
+C:\Users\Leandro\source\repos\ContactList_Forms\ContactList_Forms\bin\Debug\netcoreapp3.1\ContactList_Forms.exe
+C:\Users\Leandro\source\repos\ContactList_Forms\ContactList_Forms\bin\Debug\netcoreapp3.1\ContactList_Forms.deps.json
+C:\Users\Leandro\source\repos\ContactList_Forms\ContactList_Forms\bin\Debug\netcoreapp3.1\ContactList_Forms.runtimeconfig.json
+C:\Users\Leandro\source\repos\ContactList_Forms\ContactList_Forms\bin\Debug\netcoreapp3.1\ContactList_Forms.runtimeconfig.dev.json
+C:\Users\Leandro\source\repos\ContactList_Forms\ContactList_Forms\bin\Debug\netcoreapp3.1\ContactList_Forms.dll
+C:\Users\Leandro\source\repos\ContactList_Forms\ContactList_Forms\bin\Debug\netcoreapp3.1\ContactList_Forms.pdb
+C:\Users\Leandro\source\repos\ContactList_Forms\ContactList_Forms\obj\Debug\netcoreapp3.1\ContactList_Forms.csprojAssemblyReference.cache
+C:\Users\Leandro\source\repos\ContactList_Forms\ContactList_Forms\obj\Debug\netcoreapp3.1\ContactList_Forms.Form1.resources
+C:\Users\Leandro\source\repos\ContactList_Forms\ContactList_Forms\obj\Debug\netcoreapp3.1\ContactList_Forms.csproj.GenerateResource.cache
+C:\Users\Leandro\source\repos\ContactList_Forms\ContactList_Forms\obj\Debug\netcoreapp3.1\ContactList_Forms.AssemblyInfoInputs.cache
+C:\Users\Leandro\source\repos\ContactList_Forms\ContactList_Forms\obj\Debug\netcoreapp3.1\ContactList_Forms.AssemblyInfo.cs
+C:\Users\Leandro\source\repos\ContactList_Forms\ContactList_Forms\obj\Debug\netcoreapp3.1\ContactList_Forms.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\source\repos\ContactList_Forms\ContactList_Forms\obj\Debug\netcoreapp3.1\ContactList_Forms.dll
+C:\Users\Leandro\source\repos\ContactList_Forms\ContactList_Forms\obj\Debug\netcoreapp3.1\ContactList_Forms.pdb
+C:\Users\Leandro\source\repos\ContactList_Forms\ContactList_Forms\obj\Debug\netcoreapp3.1\ContactList_Forms.genruntimeconfig.cache

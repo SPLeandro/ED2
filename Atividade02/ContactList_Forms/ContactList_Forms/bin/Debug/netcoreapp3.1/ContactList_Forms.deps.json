@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ContactList_Forms/1.0.0": {
+        "runtime": {
+          "ContactList_Forms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ContactList_Forms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
