@@ -1,0 +1,15 @@
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade05\Atendimento\Atendimento\bin\Debug\netcoreapp3.1\Atendimento.exe
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade05\Atendimento\Atendimento\bin\Debug\netcoreapp3.1\Atendimento.deps.json
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade05\Atendimento\Atendimento\bin\Debug\netcoreapp3.1\Atendimento.runtimeconfig.json
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade05\Atendimento\Atendimento\bin\Debug\netcoreapp3.1\Atendimento.runtimeconfig.dev.json
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade05\Atendimento\Atendimento\bin\Debug\netcoreapp3.1\Atendimento.dll
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade05\Atendimento\Atendimento\bin\Debug\netcoreapp3.1\Atendimento.pdb
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade05\Atendimento\Atendimento\obj\Debug\netcoreapp3.1\Atendimento.csprojAssemblyReference.cache
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade05\Atendimento\Atendimento\obj\Debug\netcoreapp3.1\Atendimento.Form1.resources
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade05\Atendimento\Atendimento\obj\Debug\netcoreapp3.1\Atendimento.csproj.GenerateResource.cache
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade05\Atendimento\Atendimento\obj\Debug\netcoreapp3.1\Atendimento.AssemblyInfoInputs.cache
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade05\Atendimento\Atendimento\obj\Debug\netcoreapp3.1\Atendimento.AssemblyInfo.cs
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade05\Atendimento\Atendimento\obj\Debug\netcoreapp3.1\Atendimento.csproj.CoreCompileInputs.cache
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade05\Atendimento\Atendimento\obj\Debug\netcoreapp3.1\Atendimento.dll
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade05\Atendimento\Atendimento\obj\Debug\netcoreapp3.1\Atendimento.pdb
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade05\Atendimento\Atendimento\obj\Debug\netcoreapp3.1\Atendimento.genruntimeconfig.cache
