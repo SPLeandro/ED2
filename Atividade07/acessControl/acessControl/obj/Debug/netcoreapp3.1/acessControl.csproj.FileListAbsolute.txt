@@ -1,0 +1,13 @@
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade07\acessControl\acessControl\obj\Debug\netcoreapp3.1\acessControl.csprojAssemblyReference.cache
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade07\acessControl\acessControl\obj\Debug\netcoreapp3.1\acessControl.AssemblyInfoInputs.cache
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade07\acessControl\acessControl\obj\Debug\netcoreapp3.1\acessControl.AssemblyInfo.cs
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade07\acessControl\acessControl\obj\Debug\netcoreapp3.1\acessControl.csproj.CoreCompileInputs.cache
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade07\acessControl\acessControl\bin\Debug\netcoreapp3.1\acessControl.exe
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade07\acessControl\acessControl\bin\Debug\netcoreapp3.1\acessControl.deps.json
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade07\acessControl\acessControl\bin\Debug\netcoreapp3.1\acessControl.runtimeconfig.json
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade07\acessControl\acessControl\bin\Debug\netcoreapp3.1\acessControl.runtimeconfig.dev.json
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade07\acessControl\acessControl\bin\Debug\netcoreapp3.1\acessControl.dll
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade07\acessControl\acessControl\bin\Debug\netcoreapp3.1\acessControl.pdb
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade07\acessControl\acessControl\obj\Debug\netcoreapp3.1\acessControl.dll
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade07\acessControl\acessControl\obj\Debug\netcoreapp3.1\acessControl.pdb
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade07\acessControl\acessControl\obj\Debug\netcoreapp3.1\acessControl.genruntimeconfig.cache
