@@ -1,0 +1,13 @@
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade08\PROJETO TRANSPORTE\PROJETO TRANSPORTE\obj\Debug\netcoreapp3.1\PROJETO TRANSPORTE.csprojAssemblyReference.cache
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade08\PROJETO TRANSPORTE\PROJETO TRANSPORTE\obj\Debug\netcoreapp3.1\PROJETO TRANSPORTE.AssemblyInfoInputs.cache
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade08\PROJETO TRANSPORTE\PROJETO TRANSPORTE\obj\Debug\netcoreapp3.1\PROJETO TRANSPORTE.AssemblyInfo.cs
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade08\PROJETO TRANSPORTE\PROJETO TRANSPORTE\obj\Debug\netcoreapp3.1\PROJETO TRANSPORTE.csproj.CoreCompileInputs.cache
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade08\PROJETO TRANSPORTE\PROJETO TRANSPORTE\bin\Debug\netcoreapp3.1\PROJETO TRANSPORTE.exe
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade08\PROJETO TRANSPORTE\PROJETO TRANSPORTE\bin\Debug\netcoreapp3.1\PROJETO TRANSPORTE.deps.json
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade08\PROJETO TRANSPORTE\PROJETO TRANSPORTE\bin\Debug\netcoreapp3.1\PROJETO TRANSPORTE.runtimeconfig.json
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade08\PROJETO TRANSPORTE\PROJETO TRANSPORTE\bin\Debug\netcoreapp3.1\PROJETO TRANSPORTE.runtimeconfig.dev.json
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade08\PROJETO TRANSPORTE\PROJETO TRANSPORTE\bin\Debug\netcoreapp3.1\PROJETO TRANSPORTE.dll
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade08\PROJETO TRANSPORTE\PROJETO TRANSPORTE\bin\Debug\netcoreapp3.1\PROJETO TRANSPORTE.pdb
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade08\PROJETO TRANSPORTE\PROJETO TRANSPORTE\obj\Debug\netcoreapp3.1\PROJETO TRANSPORTE.dll
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade08\PROJETO TRANSPORTE\PROJETO TRANSPORTE\obj\Debug\netcoreapp3.1\PROJETO TRANSPORTE.pdb
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade08\PROJETO TRANSPORTE\PROJETO TRANSPORTE\obj\Debug\netcoreapp3.1\PROJETO TRANSPORTE.genruntimeconfig.cache
